@@ -8,6 +8,7 @@ import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
 import PenTestingImg from "./PenTestingImg";
+import GameDevImg from "./GameDevImg";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
@@ -18,7 +19,10 @@ function GetSkillSvg(props) {
     return <CloudInfraImg theme={props.theme} />;
   else if (props.fileName === "PenTestingImg")
     return <PenTestingImg theme={props.theme} />;
-  return <DesignImg theme={props.theme} />;
+  else if (props.fileName === "GameDevImg")
+    return <GameDevImg theme={props.theme} />;
+  else if (props.fileName === "DesignImg")
+    return <DesignImg theme={props.theme} />;
 }
 
 class SkillSection extends Component {

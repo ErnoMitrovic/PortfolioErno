@@ -206,16 +206,76 @@ const skills = {
       title: "Pentesting",
       fileName: "PenTestingImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Experience in Web Application Security and Network Security",
+        "⚡ Performing security assessments of web applications and RESTful APIs",
+        "⚡ Experience in performing security assessments of network infrastructure",
       ],
       softwareSkills: [
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Bash",
+          fontAwesomeClassname: "mdi:bash",
           style: {
-            color: "#F24E1E",
+            color: "black",
+          },
+        },
+        {
+          skillName: "Burp Suite",
+          fontAwesomeClassname: "simple-icons:burpsuite",
+          style: {
+            color: "#ed5813",
+          },
+        },
+        {
+          skillName: "Metasploit",
+          fontAwesomeClassname: "simple-icons:metasploit",
+          style: {
+            color: "#159818",
+          },
+        },
+        {
+          skillName: "Nmap",
+          fontAwesomeClassname: "file-icons:nmap",
+          style: {
+            color: "#4B8BBE",
+          },
+        },
+        {
+          skillName: "Wireshark",
+          fontAwesomeClassname: "simple-icons:wireshark",
+          style: {
+            color: "#1679A7",
+          },
+        },
+      ],
+    },
+    {
+      title: "Game Development",
+      fileName: "GameDevImg",
+      skills: [
+        "⚡ Developing 2D and 3D games using Unity3D and C#",
+        "⚡ Creating game logic and mechanics for games",
+        "⚡ Experience in creating game assets and animations",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "C#",
+          fontAwesomeClassname: "simple-icons:csharp",
+          style: {
+            color: "#239120",
+          },
+        },
+        {
+          skillName: "Blender",
+          fontAwesomeClassname: "simple-icons:blender",
+          style: {
+            color: "#F5792A",
           },
         },
       ],
@@ -232,7 +292,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/u/ErnoMitrovic/",
     },
     {
       siteName: "HackerRank",
@@ -240,7 +300,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/profile/ernomitrovic",
     },
     {
       siteName: "Codechef",
@@ -248,7 +308,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/ernomitrovic",
     },
     {
       siteName: "Codeforces",
@@ -256,23 +316,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://codeforces.com/profile/a01656828",
     },
   ],
 };
@@ -280,30 +324,31 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+      subtitle: "International Baccalaureate - German as Second Language",
+      logo_path: "ibLogo.png",
+      alt_name: "International Baccalaureate",
+      duration: "2018 - 2021",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied core subjects like Data Structures, Algorithms, DBMS, OS, and Networking.",
+        "⚡ I took a Computer Science course during the International Baccalaureate program.",
+        "⚡ I was the main programmer of the robotics team Nautilus 4010, where we won a regional competition with the First Tech Challenge team Hardlus 15704.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://tec.mx/en",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
+      title: "Insituto Tecnologico y de Estudios Superiores de Monterrey",
+      subtitle: "B.S. in Computer Science and Technology",
+      logo_path: "logoITESM.svg",
       alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      duration: "2021 - 2025",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have studied core subjects like Data Structures, Algorithms, DBMS, OS, Networking, Software Development and Quality Assurance.",
+        "⚡ I have also completed various online courses on Full Stack Development, Pentesting and Cloud Computing.",
+        "⚡ During my time at university, I was the president of the student council.",
+        "⚡ I am currently a mentor for the robotics team Nautilus 4010.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://tec.mx/en",
     },
   ],
 };
@@ -311,112 +356,22 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Ethical Hacking",
+      subtitle: "- Certjoin",
+      logo_path: "certjoinLogo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+        "https://tecmx-my.sharepoint.com/:b:/g/personal/a01656828_tec_mx/ETaHd5fdxtdIid_BGp9mLnwB-CLjnbchHCj0jw9LzHuKjw?e=2PkeQw",
+      alt_name: "Certjoin",
+      color_code: "#FFFFFF",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
+      title: "Google Cloud Computing Foundations",
+      subtitle: "- Google",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
+        "https://www.cloudskillsboost.google/public_profiles/3914a5a7-7f57-4e53-b6f1-385593c2b535",
+      alt_name: "Google",
+      color_code: "#4285F4",
     },
   ],
 };
@@ -426,7 +381,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked in software development in the field of web and cloud development. I have also worked in the field of cybersecurity and pentesting. I have also volunteered as a mentor for the robotics team Nautilus 4010.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -434,77 +389,23 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
+          title: "Full Stack Developer",
+          company: "Pernexium SA de CV.",
+          company_url: "https://www.pernexium.com/",
+          logo_path: "pernexium_logo.jpeg",
+          duration: "November 2023 - March 2024",
+          location: "Mexico City, Mexico",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Working on the development of a chatbot application for contact centers. Developed in the AWS Cloud and using OpenAI for the AI responses. The web page was developed using React and the backend was developed using Node and Express.",
           color: "#000000",
-        },
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
         },
       ],
     },
+    /*
     {
       title: "Internships",
       experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
-          description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
+        /* {
           title: "Data Science Intern",
           company: "Intel Indexer LLC",
           company_url:
@@ -515,67 +416,23 @@ const experience = {
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#0071C5",
-        },
+        }, 
       ],
     },
+    */
     {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          title: "Programming mentor",
+          company: "Nautilus",
+          company_url: "https://www.nautilus4010.com/",
+          logo_path: "nautilus_logo.png",
+          duration: "August 2021 - Present",
+          location: "Mexico City, Mexico",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "I am a mentor for the robotics team Nautilus 4010. I help the team with programming and teach them about robotics and programming on Java and/or LabView.",
           color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
         },
       ],
     },
@@ -586,38 +443,66 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools, going from Full Stack Development to Cloud Infrastructure. I have also worked on Game Development and Pentesting. I love to learn new technologies and create projects that can make our life easier and that can be seen in my Hackathons projects.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
+  title: "My Projects",
+  description:
+    "Some of the projects that I have worked on are listed below. These projects are a mix of Full Stack Development, Cloud Computing, Pentesting and Game Development. I have also worked on some projects that are related to AI and ML.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
   data: [
     {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      id: "computational-biology",
+      name: "Computational Biology SARCOV project",
+      createdAt: "2022-05-06T00:00:00Z",
+      description:
+        "Categorize and analyse different types of SARS-CoV-2 genomes using R and the NCBI databases.",
+      url: "https://github.com/ErnoMitrovic/BioSituacionProblema",
     },
     {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      id: "vote-chain",
+      name: "Vote Chain DAO Hackathon",
+      createdAt: "2022-12-15T00:00:00Z",
+      description:
+        "A DAO project that intends to be used in national elections, where we obtained the hackathon's 2nd place.",
+      url: "https://github.com/ErnoMitrovic/VoteChain",
     },
     {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
+      id: "webseekers",
+      name: "WebSeekers IoT Project",
+      createdAt: "2022-11-9T00:00:00Z",
+      description:
+        "A project that uses the MQTT protocol to send data to drones in emergency situations.",
+      url: "https://github.com/ErnoMitrovic/WebSeekers",
+    },
+    {
+      id: "hackmx",
+      name: "HackMX Hackathon Webpage",
+      createdAt: "2023-09-26T00:00:00Z",
+      description:
+        "The webpage of the HackMX hackathon, where I was in charge of the full stack development.",
+      url: "https://github.com/hackmx-temp",
+    },
+    {
+      id: "sel4c",
+      name: "SEL4C Swift and Web Development",
+      createdAt: "2023-08-20T00:00:00Z",
+      description:
+        "A project that uses the SEL4C methodology to create a web dashboard for supervisors and an iOS app for entrepreneurs.",
+      url: "https://github.com/SEL4C-451-1",
+    },
+    {
+      id: "zoonic",
+      name: "Zoonic Game Development",
+      createdAt: "2023-07-15T00:00:00Z",
+      description:
+        "A 3D game developed in Unity3D where the player must learn fractions while interacting with zoo animals and different game dynamics.",
+      url: "https://github.com/ZoonicFractions",
     },
   ],
 };
