@@ -6,11 +6,6 @@
       "__typename": "Organization"
     },
     {
-      "login": "TeacherISM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131203125?v=4",
-      "__typename": "Organization"
-    },
-    {
       "login": "SEL4C-451-1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/143858007?v=4",
       "__typename": "Organization"
@@ -21,11 +16,6 @@
       "__typename": "Organization"
     },
     {
-      "login": "hackmx-temp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146038604?v=4",
-      "__typename": "Organization"
-    },
-    {
       "login": "202313-tc2008b",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151082648?v=4",
       "__typename": "Organization"
@@ -33,6 +23,21 @@
     {
       "login": "Panoptimize",
       "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "hackmx-temp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146038604?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "CAN-QUEENS",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178201528?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "abatplus-vl-htw-wise-2324",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148195566?v=4",
       "__typename": "Organization"
     }
   ]

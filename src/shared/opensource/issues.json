@@ -1,65 +1,174 @@
 {
-  "closed": 5,
+  "closed": 24,
   "data": [
     {
-      "id": "I_kwDOLvKbos6HLsoa",
-      "closed": false,
-      "title": "H07 A06: Conectar con dummy API",
-      "createdAt": "2024-04-29T02:10:21Z",
-      "url": "https://github.com/Panoptimize/BackEnd/issues/61",
-      "number": 61,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
-            "name": "Ernesto Miranda",
-            "url": "https://github.com/ErnoMitrovic"
-          }
-        ]
-      },
-      "repository": {
-        "name": "BackEnd",
-        "url": "https://github.com/Panoptimize/BackEnd",
-        "owner": {
-          "login": "Panoptimize",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
-          "url": "https://github.com/Panoptimize"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLvKbos6GW7C9",
-      "closed": false,
-      "title": "H07 A05: Integración de servicio con base de datos y controlador",
-      "createdAt": "2024-04-12T23:51:15Z",
-      "url": "https://github.com/Panoptimize/BackEnd/issues/21",
-      "number": 21,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
-            "name": "Ernesto Miranda",
-            "url": "https://github.com/ErnoMitrovic"
-          }
-        ]
-      },
-      "repository": {
-        "name": "BackEnd",
-        "url": "https://github.com/Panoptimize/BackEnd",
-        "owner": {
-          "login": "Panoptimize",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
-          "url": "https://github.com/Panoptimize"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLrqQJc6FlNDR",
+      "id": "I_kwDONKpWis6gnmOO",
       "closed": true,
-      "title": "H07 A04: Validación de interfaz de usuario con mockup",
-      "createdAt": "2024-04-12T23:43:55Z",
-      "url": "https://github.com/Panoptimize/FrontEnd/issues/3",
+      "title": "Setting up entities for DB",
+      "createdAt": "2024-11-26T13:42:26Z",
+      "url": "https://github.com/ErnoMitrovic/carpool-server/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "carpool-server",
+        "url": "https://github.com/ErnoMitrovic/carpool-server",
+        "owner": {
+          "login": "ErnoMitrovic",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+          "url": "https://github.com/ErnoMitrovic"
+        }
+      }
+    },
+    {
+      "id": "I_kwDONKUbzc6gc3qi",
+      "closed": true,
+      "title": "Sort routes",
+      "createdAt": "2024-11-25T19:14:23Z",
+      "url": "https://github.com/abatplus-vl-htw-wise-2324/bus/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bus",
+        "url": "https://github.com/abatplus-vl-htw-wise-2324/bus",
+        "owner": {
+          "login": "abatplus-vl-htw-wise-2324",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/148195566?v=4",
+          "url": "https://github.com/abatplus-vl-htw-wise-2324"
+        }
+      }
+    },
+    {
+      "id": "I_kwDONKUbzc6gZI5S",
+      "closed": true,
+      "title": "Delete a route",
+      "createdAt": "2024-11-25T14:33:45Z",
+      "url": "https://github.com/abatplus-vl-htw-wise-2324/bus/issues/3",
       "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bus",
+        "url": "https://github.com/abatplus-vl-htw-wise-2324/bus",
+        "owner": {
+          "login": "abatplus-vl-htw-wise-2324",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/148195566?v=4",
+          "url": "https://github.com/abatplus-vl-htw-wise-2324"
+        }
+      }
+    },
+    {
+      "id": "I_kwDONKUbzc6eAsZu",
+      "closed": true,
+      "title": "Add a route",
+      "createdAt": "2024-11-12T04:30:36Z",
+      "url": "https://github.com/abatplus-vl-htw-wise-2324/bus/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bus",
+        "url": "https://github.com/abatplus-vl-htw-wise-2324/bus",
+        "owner": {
+          "login": "abatplus-vl-htw-wise-2324",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/148195566?v=4",
+          "url": "https://github.com/abatplus-vl-htw-wise-2324"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6MbFBk",
+      "closed": false,
+      "title": "H13 A01: Actualizar el proyecto para usar grouping directo de Connect",
+      "createdAt": "2024-06-16T18:17:47Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/176",
+      "number": 176,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6LuggF",
+      "closed": true,
+      "title": "No CSS unless it is tailwind",
+      "createdAt": "2024-06-10T15:36:08Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/239",
+      "number": 239,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113377336?u=0bef8dc9a89d2d04082f265dbe536b0442d28841&v=4",
+            "name": null,
+            "url": "https://github.com/JoseRobertoGC"
+          }
+        ]
+      },
+      "repository": {
+        "name": "FrontEnd",
+        "url": "https://github.com/Panoptimize/FrontEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6LmBv5",
+      "closed": true,
+      "title": "H16 A03: Probar componentes con Jest",
+      "createdAt": "2024-06-09T03:36:26Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/213",
+      "number": 213,
       "assignees": {
         "nodes": [
           {
@@ -80,9 +189,438 @@
       }
     },
     {
+      "id": "I_kwDOLvKbos6LcZHD",
+      "closed": true,
+      "title": "Sincronizar datos de connect",
+      "createdAt": "2024-06-07T02:49:31Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/152",
+      "number": 152,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6LTeOy",
+      "closed": true,
+      "title": "H01 A01 - Metricas de hoy del agente en agent card y note",
+      "createdAt": "2024-06-06T01:52:00Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/155",
+      "number": 155,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102180250?u=3289fb4182b743becdd363ca328ac2d36ba45187&v=4",
+            "name": "Carava Jojo",
+            "url": "https://github.com/InakiVA"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113377348?v=4",
+            "name": null,
+            "url": "https://github.com/antonioMachorro"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/116749018?u=966c8b61444e9e8a2d65d3249edb45a81454652e&v=4",
+            "name": "Antonio Rafael Cedillo Rodríguez",
+            "url": "https://github.com/AntonioCedilloA01656823"
+          }
+        ]
+      },
+      "repository": {
+        "name": "FrontEnd",
+        "url": "https://github.com/Panoptimize/FrontEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6LSALN",
+      "closed": true,
+      "title": "Hx Usar principal para obtener el id de la instancia",
+      "createdAt": "2024-06-05T20:11:26Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/132",
+      "number": 132,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6LKWL0",
+      "closed": true,
+      "title": "H05 A15: Merge agent performance to metrics",
+      "createdAt": "2024-06-05T01:57:18Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/129",
+      "number": 129,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/94139206?v=4",
+            "name": "Esther Ramirez",
+            "url": "https://github.com/EstherRC"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6K4EIh",
+      "closed": true,
+      "title": "H12 A01: Servicio de obtencion de filtros",
+      "createdAt": "2024-06-03T00:45:03Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/118",
+      "number": 118,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6KzoFH",
+      "closed": true,
+      "title": "H16 A02: Crear filtros del dashboard",
+      "createdAt": "2024-06-01T01:08:50Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/144",
+      "number": 144,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          }
+        ]
+      },
+      "repository": {
+        "name": "FrontEnd",
+        "url": "https://github.com/Panoptimize/FrontEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6KhYnK",
+      "closed": true,
+      "title": "H09 - Customer satisfaction connect event",
+      "createdAt": "2024-05-29T18:42:39Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/103",
+      "number": 103,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/105232610?v=4",
+            "name": null,
+            "url": "https://github.com/CesarCeballosC"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113377348?v=4",
+            "name": null,
+            "url": "https://github.com/antonioMachorro"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/118383506?u=8f663dc78a123a6ad499c18e302f54a3336a7f4b&v=4",
+            "name": "karris",
+            "url": "https://github.com/lunarmelon"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6Joek9",
+      "closed": true,
+      "title": "Hx Unificar la configuración del dashboard con el backend",
+      "createdAt": "2024-05-21T20:48:41Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/124",
+      "number": 124,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "FrontEnd",
+        "url": "https://github.com/Panoptimize/FrontEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6Jn0o1",
+      "closed": true,
+      "title": "Hx Creación de CRUDS para entidades",
+      "createdAt": "2024-05-21T18:57:50Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/95",
+      "number": 95,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6I5_KJ",
+      "closed": true,
+      "title": "Hx Unir los servicios del dashboard en un solo endpoint",
+      "createdAt": "2024-05-15T05:32:07Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/92",
+      "number": 92,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6IaSjy",
+      "closed": true,
+      "title": "H05 A06 Configurar el cliente de AWS",
+      "createdAt": "2024-05-09T23:06:06Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/89",
+      "number": 89,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/74110279?u=536d686e623f80de0baf28943984c025165358a5&v=4",
+            "name": "Raul V",
+            "url": "https://github.com/Raul-VR"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/94139206?v=4",
+            "name": "Esther Ramirez",
+            "url": "https://github.com/EstherRC"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6HLsoa",
+      "closed": true,
+      "title": "H05 A07: Conectar con amazon connect",
+      "createdAt": "2024-04-29T02:10:21Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/61",
+      "number": 61,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLvKbos6GW7C9",
+      "closed": true,
+      "title": "H05 A05: Integración de servicio con base de datos y controlador",
+      "createdAt": "2024-04-12T23:51:15Z",
+      "url": "https://github.com/Panoptimize/BackEnd/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BackEnd",
+        "url": "https://github.com/Panoptimize/BackEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLrqQJc6FlNDR",
+      "closed": true,
+      "title": "H05 A04: Validación de interfaz de usuario con mockup",
+      "createdAt": "2024-04-12T23:43:55Z",
+      "url": "https://github.com/Panoptimize/FrontEnd/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
+            "name": "Ernesto Miranda",
+            "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
+          }
+        ]
+      },
+      "repository": {
+        "name": "FrontEnd",
+        "url": "https://github.com/Panoptimize/FrontEnd",
+        "owner": {
+          "login": "Panoptimize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165850324?v=4",
+          "url": "https://github.com/Panoptimize"
+        }
+      }
+    },
+    {
       "id": "I_kwDOLvKbos6GW5ci",
       "closed": true,
-      "title": "H07 A03: Validación del modelo de datos",
+      "title": "H05 A03: Validación del modelo de datos",
       "createdAt": "2024-04-12T23:43:22Z",
       "url": "https://github.com/Panoptimize/BackEnd/issues/19",
       "number": 19,
@@ -92,6 +630,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
             "name": "Ernesto Miranda",
             "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
           }
         ]
       },
@@ -108,7 +651,7 @@
     {
       "id": "I_kwDOLvKbos6GW6sk",
       "closed": true,
-      "title": "H07 A02: Realizar la definición del endpoint",
+      "title": "H05 A02: Realizar la definición del endpoint",
       "createdAt": "2024-04-12T23:42:24Z",
       "url": "https://github.com/Panoptimize/BackEnd/issues/20",
       "number": 20,
@@ -118,6 +661,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
             "name": "Ernesto Miranda",
             "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
           }
         ]
       },
@@ -134,7 +682,7 @@
     {
       "id": "I_kwDOLvKbos6GWyfc",
       "closed": true,
-      "title": "H07 A01: Revisar el modelo de transmición de datos de un agente",
+      "title": "H05 A01: Revisar el modelo de transmición de datos de una métrica",
       "createdAt": "2024-04-12T23:40:57Z",
       "url": "https://github.com/Panoptimize/BackEnd/issues/18",
       "number": 18,
@@ -144,6 +692,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/55798237?u=1f7351c45eb17f97431f0ea8cfe38db85661b218&v=4",
             "name": "Ernesto Miranda",
             "url": "https://github.com/ErnoMitrovic"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/102175765?v=4",
+            "name": null,
+            "url": "https://github.com/SebastianIL"
           }
         ]
       },
@@ -258,6 +811,6 @@
       }
     }
   ],
-  "open": 6,
-  "totalCount": 11
+  "open": 5,
+  "totalCount": 29
 }
