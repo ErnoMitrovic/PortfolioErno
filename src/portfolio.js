@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "There is only one accurate word to describe myself: curiosity. I am a computer science student with a passion for learning and creating new things. I am always looking for new challenges and opportunities to grow.",
   resumeLink:
-    "https://tecmx-my.sharepoint.com/:b:/g/personal/a01656828_tec_mx/ETgbAdS_1jRIk5b4n7MOkBEBnTD1UkRuMhfD_ZMCaqF3aQ?e=JRrOcd",
+    "https://tecmx-my.sharepoint.com/:b:/g/personal/a01656828_tec_mx/IQBxVYBT4hLeS4BOK_f2XDjoAaVrfPZHqYqa91yxMsDOAM4?e=2zuhBh",
   portfolio_repository: "https://github.com/ernomotrivic/masterPortfolio",
   githubProfile: "https://github.com/ernomitrovic",
 };
@@ -401,25 +401,22 @@ const experience = {
         },
       ],
     },
-    /*
     {
       title: "Internships",
       experiences: [
-        /* {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
+        {
+          title: "R&D Intern",
+          company: "Belden Inc.",
+          company_url: "https://opencorporates.com/companies/de/R2604_HRB6316",
+          logo_path: "belden_logo.png",
+          duration: "Apr 2025 - March 2026",
+          location: "Neckartenzlingen, Germany",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        }, 
+            "Developed and tested AI-driven solutions using AWS Bedrock, including a chatbot prototype for internal knowledge management. Recognized for fast problem-solving, high reliability, and a proactive, collaborative approach in an international R&D team.",
+          color: "#6E528A",
+        },
       ],
     },
-    */
     {
       title: "Volunteerships",
       experiences: [
